@@ -90,7 +90,7 @@ Compiling Greenbone Security Assistant GUI
 ------------------------------------------
 
 Prerequisites for using the GUI:
-* node.js >= 8.0
+* node.js >= 10.0
 * Either yarn >= 1.0 or npm. yarn is faster and more reliable, but younger.
 
 
